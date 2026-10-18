@@ -1,3 +1,5 @@
+> **This is a fork:** `@triffon/moodle-driver` is [`@falkenslab/moodle-driver`](https://www.npmjs.com/package/@falkenslab/moodle-driver) 0.10.0 with Firefox as a browser channel (`channel: "firefox"`), published until [falkenslab/moodle-driver#89](https://github.com/falkenslab/moodle-driver/pull/89) is merged and released. Use the original package once it is.
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/falkenslab/moodle-driver/main/docs/static/img/logo.svg" alt="moodle-driver logo: a terminal prompt, >m_" width="112"/>
