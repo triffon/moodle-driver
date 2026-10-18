@@ -1,7 +1,7 @@
 {
-  "name": "@falkenslab/moodle-driver",
-  "version": "0.10.0",
-  "description": "Full control of Moodle as any user, from code or the command line, with their own login: no web services, no tokens, no admin.",
+  "name": "@triffon/moodle-driver",
+  "version": "0.10.0-firefox.1",
+  "description": "Fork of @falkenslab/moodle-driver with Firefox as a browser channel, until it is merged upstream. Full control of Moodle as any user, from code or the command line, with their own login: no web services, no tokens, no admin.",
   "author": "Falkenslab",
   "license": "MIT",
   "keywords": [
@@ -67,13 +67,13 @@
   "allowScripts": {
     "esbuild@0.28.2": true
   },
-  "homepage": "https://falkenslab.github.io/moodle-driver/",
+  "homepage": "https://github.com/triffon/moodle-driver/tree/release/firefox#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/falkenslab/moodle-driver.git"
+    "url": "git+https://github.com/triffon/moodle-driver.git"
   },
   "bugs": {
-    "url": "https://github.com/falkenslab/moodle-driver/issues"
+    "url": "https://github.com/triffon/moodle-driver/issues"
   },
   "publishConfig": {
     "access": "public"
